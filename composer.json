@@ -1,6 +1,6 @@
 {
 
-  "name": "hnrysmth/reddit-api-client",
+  "name": "pixelgremlins/reddit-api-client",
   "description": "Provides an interface to the API at reddit.com",
   "keywords": [
     "reddit",
@@ -11,9 +11,9 @@
   "license": "GPLv2",
   "authors": [
     {
-      "name": "Henry Smith",
-      "email": "henry@henrysmith.org",
-      "homepage": "http://henrysmith.org"
+      "name": "Patrick Curl",
+      "email": "patrickwcurl@gmail.com",
+      "homepage": "http://patrickcurl.com"
     }
   ],
 
@@ -25,10 +25,8 @@
 
   "require": {
     "php": ">=5.3.0",
-    "guzzle/guzzle": "3.9.2",
+    "guzzle/guzzle": "dev-master",
     "mockery/mockery": "dev-master",
-    "phpunit/phpunit": "3.7.*@dev",
-    "squizlabs/php_codesniffer": "1.*"
   }
 
 }
